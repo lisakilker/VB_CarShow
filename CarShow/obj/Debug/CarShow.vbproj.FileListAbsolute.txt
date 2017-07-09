@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\bin\Debug\CarShow.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\bin\Debug\CarShow.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\bin\Debug\CarShow.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\bin\Debug\CarShow.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\obj\Debug\CarShow.frmCarShow.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\obj\Debug\CarShow.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\obj\Debug\CarShow.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\obj\Debug\CarShow.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\obj\Debug\CarShow.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\CarShow\CarShow\obj\Debug\CarShow.pdb
